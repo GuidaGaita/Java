@@ -21,64 +21,13 @@ Este é um projeto simples de gerenciamento de uma biblioteca, que permite adici
 ## Exemplo do codigo rodando:
 
 ----- MENU -----
-1 - Adicionar usuário
-2 - Adicionar livro
-3 - Pesquisar livro por título
-4 - Pesquisar livro por autor
-5 - Pesquisar livro por categoria
-6 - Alugar livro
-7 - Devolver livro
-8 - Pesquisar usuário
-9 - Sair
-Escolha uma opção: 1
-Nome: João Silva
-Endereço: Rua das Flores
-CPF: 12345678910
-usuario adicionado
-
------ MENU -----
-1 - Adicionar usuário
-2 - Adicionar livro
-3 - Pesquisar livro por título
-4 - Pesquisar livro por autor
-5 - Pesquisar livro por categoria
-6 - Alugar livro
-7 - Devolver livro
-8 - Pesquisar usuário
-9 - Sair
-Escolha uma opção: 2
-Título: O Senhor dos Anéis
-Autor: J.R.R. Tolkien
-Categoria: Fantasia
-ID: 1
-livro adicionado
-
------ MENU -----
-1 - Adicionar usuário
-2 - Adicionar livro
-3 - Pesquisar livro por título
-4 - Pesquisar livro por autor
-5 - Pesquisar livro por categoria
-6 - Alugar livro
-7 - Devolver livro
-8 - Pesquisar usuário
-9 - Sair
-Escolha uma opção: 6
-Nome do usuário: João Silva
-Título do livro para alugar: O Senhor dos Anéis
-João Silva alugou o título: O Senhor dos Anéis
-
------ MENU -----
-1 - Adicionar usuário
-2 - Adicionar livro
-3 - Pesquisar livro por título
-4 - Pesquisar livro por autor
-5 - Pesquisar livro por categoria
-6 - Alugar livro
-7 - Devolver livro
-8 - Pesquisar usuário
-9 - Sair
-Escolha uma opção: 7
-Nome do usuário: João Silva
-voce devolveu o livro: O Senhor dos Anéis
-
+-1 - Adicionar usuário
+-2 - Adicionar livro
+-3 - Pesquisar livro por título
+-4 - Pesquisar livro por autor
+-5 - Pesquisar livro por categoria
+-6 - Alugar livro
+-7 - Devolver livro
+-8 - Pesquisar usuário
+-9 - Sair
+-Escolha uma opção: 
